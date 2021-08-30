@@ -7,7 +7,7 @@
         <description>Minor updates and improvements.</description>
         <description xml:lang="vi">Một số thay đổi cần thiết cho trải nghiệm của bạn tốt hơn</description>
         <enclosure url="https://play.google.com/store/apps/details?id=vn.leap.prescription" sparkle:version="1.0.1" sparkle:os="android" />
-        <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
+<!--         <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
       </item>
   </channel>
 </rss>
