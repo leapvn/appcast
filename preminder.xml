@@ -3,10 +3,10 @@
   <channel>
     <title>Preminder version</title>
       <item>
-<!--         <title>Version 1.0.1</title>
+         <title>Version 2.0.42</title>
         <description>Minor updates and improvements.</description>
         <description xml:lang="vi">Một số thay đổi cần thiết cho trải nghiệm của bạn tốt hơn</description>
-        <enclosure url="https://play.google.com/store/apps/details?id=vn.leap.prescription" sparkle:version="1.0.1" sparkle:os="android" /> -->
+        <enclosure url="https://play.google.com/store/apps/details?id=vn.leap.prescription" sparkle:version="2.0.42" sparkle:os="android" />
 <!--         <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
       </item>
   </channel>
